@@ -1,0 +1,8 @@
+{
+  "name": "Map deo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5b64e000"
+}
